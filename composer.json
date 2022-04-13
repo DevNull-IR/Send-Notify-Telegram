@@ -16,7 +16,8 @@
 			"App\\": "app/"
 		},
 		"files":[
-			"app/Helpers/helpers.php"
+			"app/Helpers/helpers.php",
+			"migrations/telegram_bot_notif.php"
 		]
 	},
     "minimum-stability": "dev"
